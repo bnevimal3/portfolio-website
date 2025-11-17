@@ -1,20 +1,8 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1H-y7XIEtH7pwjxVpfu6yt5JfgIw33nDi
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Nanda Eswar Vimal Boppudi - Personal Portfolio
+This is a modern and fully responsive personal portfolio website for Nanda Eswar Vimal Boppudi, a Java Full Stack Developer. Built with React, TypeScript, and styled with Tailwind CSS, it features a sleek, dark-themed UI with smooth, elegant animations powered by Framer Motion. The portfolio effectively showcases skills, professional experience, projects, and includes a functional contact form using EmailJS.
+Key Features:
+Modern Tech Stack: React, TypeScript, Vite, Tailwind CSS.
+Smooth Animations: Fluid user experience with animations from Framer Motion.
+Fully Responsive: Optimized for a seamless experience on all devices, from desktops to mobile phones.
+Comprehensive Sections: Includes sections for About Me, Work Experience, Skills, Services, Portfolio, and Contact.
+Interactive UI: Engaging components and a clean, professional design.
